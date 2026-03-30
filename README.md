@@ -17,9 +17,8 @@
 ---
 
 ## 🗂️ 1학기 블럭도
+<img width="960" height="1513" alt="smartfarm_blockdiagram" src="https://github.com/user-attachments/assets/d7f39dc4-4d1d-4283-b3f0-1dc97566d677" />
 
-👉 **[블럭도 전체 보기](./smartfarm_blockdiagram.html)**  
-*(GitHub Pages 또는 브라우저에서 직접 열어서 확인)*
 
 ### 전체 흐름
 
